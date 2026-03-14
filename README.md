@@ -1344,15 +1344,8 @@ register_kernel
 
 ## License
 
-MIT License - see LICENSE file for details.
+GPL-3.0 license
 
----
-
-## Contributing
-
-Contributions welcome! Please read CONTRIBUTING.md for guidelines.
-
----
 
 ## Citation
 
