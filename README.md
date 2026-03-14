@@ -40,7 +40,7 @@
 
 ## Overview
 
-mxtorch implements **MX (Microscaling) quantization** for PyTorch, enabling real bit-packed storage and arithmetic on quantized tensors. Unlike "fake quantization" approaches that simulate low precision while maintaining float32 copies, mxtorch packs values into actual int8/int32 storage, achieving **4-32x memory compression**.
+mxtorch implements **MX (Microscaling) quantization** for PyTorch, enabling real bit-packed storage and arithmetic on quantized tensors. 
 
 ### Key Features
 
